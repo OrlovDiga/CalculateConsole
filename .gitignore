@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.iws
+log/
+target/
+.DS_Store
+.idea/
+*.ipr
+out/
+.idea_modules/
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+hs_err_pid*
